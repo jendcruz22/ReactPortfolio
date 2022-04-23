@@ -27,3 +27,15 @@ a:hover {
 .aboutStyle {
   display: inline-grid;
 }
+
+.projSection {
+  padding: 20px;
+}
+
+.projLink {
+  color: blue;
+}
+
+.projLink:hover {
+  color: blueviolet;
+}

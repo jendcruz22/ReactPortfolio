@@ -29,7 +29,7 @@ function Navigation() {
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/project">
-                  Project
+                  Projects
                 </NavLink>
               </li>
             </ul>
